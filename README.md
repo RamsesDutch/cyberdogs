@@ -67,7 +67,7 @@ cyberdogs/
 
 ---
 
-##Language Support
+## Language Support
 
 Out of the box, Cyberdogs supports:
 
