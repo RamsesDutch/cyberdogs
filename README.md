@@ -113,7 +113,7 @@ Stay tuned!
 
 ## Credits & License
 
-Created by Ramses Dutch
+Created by Ramses Dutch.
 Licensed under MIT. Free to use, remix, share. Do whatever you want with it!
 
 ---
