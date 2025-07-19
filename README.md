@@ -55,14 +55,14 @@ cyberdogs/
 2. Add this just before the closing `</body>` tag in your site:
 
 ```html
-<link rel="stylesheet" href="/cyberdogs/style.css">
+<link rel="stylesheet" href="https://ramsesdutch.github.io/cyberdogs/style.css">
 <div id="cyberdog-widget">
   <div id="lottie-dog"></div>
   <div id="message"></div>
-  <a id="train-link" href="/cyberdogs/kennel/quiz.html">Train Me!</a>
+  <a id="train-link" href="https://ramsesdutch.github.io/cyberdogs/kennel/quiz.html">Train Me!</a>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.9.6/lottie.min.js"></script>
-<script src="/cyberdogs/cyberdog.js"></script>
+<script src="https://ramsesdutch.github.io/cyberdogs/cyberdog.js"></script>
 ```
 
 ---
