@@ -7,7 +7,7 @@ Cyberdogs is an interactive, gamified cybersecurity-awareness widget for website
 ## Features
 
 - Multilingual warning messages
-- Lottie-animated tail-wagging dog
+- Lottie-animated tail-wagging dog (coming soon)
 - Detects browser developer tools and reacts visually
 - Optional barking sound effect
 - Sends events using the Beacon API (privacy-conscious)
