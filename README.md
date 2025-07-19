@@ -29,6 +29,8 @@ Once embedded on a webpage, the Cyberdog:
 ---
 
 ## Folder Structure
+
+```
 cyberdogs/
 ├── public/
 │ ├── index.html
@@ -43,6 +45,7 @@ cyberdogs/
 │ │ └── quiz.html
 │ └── languages.json
 └── README.md
+```
 
 ---
 
